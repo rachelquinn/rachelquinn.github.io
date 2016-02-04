@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+h1 {
+  font-weight: bolder;
+  font-family: 'Lobster'; cursive;
+  font-size: 100px;
+  color: goldenrod;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: 'Pacifico'; cursive;
+  font-size: 50px;
+  color: firebrick;
+}
+
+#para1 {
+  font-weight: 300;
+  font-family: 'Amatic SC'; cursive;
+}
+
+#para2 {
+  font-weight: 900;
+  font-family: 'Amatic SC'; cursive;
+}
+
+#para3 {
+  font-weight: 700;
+  font-family: 'Amatic SC'; cursive;
+}
+
+#para4 {
+  font-weight: 100;
+  font-family: 'Amatic SC'; cursive;
+}
