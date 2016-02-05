@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 h1 {
   font-weight: bolder;
@@ -13,12 +14,19 @@ h2 {
   font-weight: bold;
   font-family: 'Pacifico'; cursive;
   font-size: 40px;
-  color: firebrick;
+  color: LightSeaGreen;
+}
+
+body {
+  font-family:"Slabo 27px", serif;
+  font-size: 18px;
+  color:lightslategrey;
 }
 
 #para1 {
   font-weight: 300;
   font-family: 'Amatic SC'; cursive;
+  font-size: 50;
 }
 
 #para2 {
