@@ -23,23 +23,26 @@ body {
   color:lightslategrey;
 }
 
-#para1 {
-  font-weight: 300;
-  font-family: 'Amatic SC'; cursive;
-  font-size: 50;
+#Ingredients {
+  width: 40%;
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+  float: left;
 }
 
-#para2 {
-  font-weight: 900;
-  font-family: 'Amatic SC'; cursive;
+#Directions {
+  width: 40%;
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+  float: left;
 }
 
-#para3 {
-  font-weight: 700;
-  font-family: 'Amatic SC'; cursive;
-}
-
-#para4 {
-  font-weight: 100;
-  font-family: 'Amatic SC'; cursive;
+#Tip {
+  width: 30px
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+  float: left;
 }
