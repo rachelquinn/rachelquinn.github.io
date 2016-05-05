@@ -7,7 +7,7 @@
 
 #Heading {
   font-family: 'Homemade Apple', cursive;
-  color: black;
+  color: #1E8449;
   font-size: 100px;
   margin-left: 5%;
   margin-right: 30%;
@@ -19,6 +19,7 @@
 #Sub-heading {
   font-family: 'Homemade Apple', cursive;
   margin-left: 10%;
+  color: #1E8449;
 }
 
 h2 {
@@ -30,6 +31,7 @@ h3 {
   font-size: 25px;
   font-weight: bold;
   align-content: center;
+  color: #4D5656;
 }
 
 #image1 {
@@ -41,20 +43,22 @@ h3 {
 
 #Footer {
   font-family: 'Amatic SC', cursive;
+  color: #424949;
   font-size: 25px;
   margin-left: 10%;
   margin-right: 10%;
   background-color: white;
   padding-top: 25px;
   padding-bottom: 25px;
-  border-top-style: solid; border-color: black;
+  border-top-style: solid; border-color: #424949;
 }
 
 hr {
   border-top: bold;
+  border-color: #4D5656;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: #4D5656;
 }

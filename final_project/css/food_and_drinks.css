@@ -24,7 +24,7 @@ h2 {
 #image1 {
   background-image: url("../images/board.jpg");
   padding-top: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 450px;
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -50,12 +50,13 @@ h2 {
 
 #Footer {
   font-family: 'Amatic SC', cursive;
-  font-size: 20px;
+  color: #424949;
+  font-size: 25px;
   margin-left: 10%;
   margin-right: 10%;
   background-color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 hr {

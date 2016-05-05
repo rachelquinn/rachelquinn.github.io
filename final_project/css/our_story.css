@@ -7,7 +7,7 @@
 
 #Heading {
   font-family: 'Homemade Apple', cursive;
-  color: black;
+  color:  #424949;
   font-size: 100px;
   margin-left: 5%;
   padding-bottom: 5px;
@@ -32,35 +32,32 @@ h2 {
 #Sub-heading {
   font-family: 'Amatic SC', cursive;
   color: white;
-  padding-top: 30px;
+  padding-top: 5px;
   margin-left: 50px;
   padding-right: 30px;
   margin-right: 400px;
-}
-
-#Mom {
-  float: right;
-  margin-right: 50px;
 }
 
 #Story {
   font-family: 'Amatic SC', cursive;
   color: white;
   font-size: 25px;
-  padding-top: 30px;
+  padding-top: 5px;
   padding-right: 30px;
   margin-left: 90px;
   margin-right: 400px;
+  padding-bottom: 350px;
 }
 
 #Footer {
   font-family: 'Amatic SC', cursive;
-  font-size: 20px;
+  color: #424949;
+  font-size: 25px;
   margin-left: 10%;
   margin-right: 10%;
   background-color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 hr {
